@@ -1,0 +1,16 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "ejemplo para expo",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Josué Fernando Gómez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {}
+}
