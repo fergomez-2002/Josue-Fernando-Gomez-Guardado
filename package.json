@@ -1,16 +1,19 @@
 {
-  "name": "prueba",
+  "name": "expo-junior",
   "version": "1.0.0",
-  "description": "ejemplo para expo",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Josué Fernando Gómez",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caceres97/Expo-Junior.git"
+  },
+  "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.1",
-    "nodemon": "^2.0.4"
+  "bugs": {
+    "url": "https://github.com/caceres97/Expo-Junior/issues"
   },
-  "devDependencies": {}
+  "homepage": "https://github.com/caceres97/Expo-Junior#readme"
 }
